@@ -50,4 +50,8 @@ group by concat(c.last_name, ' ', c.first_name);
 
 ![](./12-5-3.png)
 
+### Доработка:
+
+![](./12-5-4.png)
+
 ---
